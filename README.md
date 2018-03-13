@@ -1,2 +1,3 @@
 # hello-world
-my firs repo 
+my first repo 
+my name is Rawan , i want to be a professional programmer
